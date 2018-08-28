@@ -20,7 +20,15 @@ Features
 
 Preview
 ========
-<a href="" alt="">Red</a>
+
+<a href="https://myprotectedserver.com/pre-release/designs/red.php" alt="Red">Red</a>
+<a href="https://myprotectedserver.com/pre-release/designs/orange.php" alt="Orange">Orange</a>
+<a href="https://myprotectedserver.com/pre-release/designs/yellow.php" alt="Yellow">Yellow</a>
+<a href="https://myprotectedserver.com/pre-release/designs/green.php" alt="Green">Green</a>
+<a href="https://myprotectedserver.com/pre-release/" alt="Blue">Blue</a>
+<a href="https://myprotectedserver.com/pre-release/designs/pink.php" alt="Pink">Pink</a>
+<a href="https://myprotectedserver.com/pre-release/designs/purple.php" alt="Purple">Purple</a>
+
 License
 ==========
 This software is under an MIT License. Which allows full use to edit, distribute, or sell this code.
