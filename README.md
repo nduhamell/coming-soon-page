@@ -16,17 +16,23 @@ Features
 ===============
 - Fully Built
 - Connection to MySQL databse
--Array of designs
+- Array of designs
 
 Preview
 ========
 
 <a href="https://myprotectedserver.com/pre-release/designs/red.php" alt="Red">Red</a>
+<br>
 <a href="https://myprotectedserver.com/pre-release/designs/orange.php" alt="Orange">Orange</a>
+<br>
 <a href="https://myprotectedserver.com/pre-release/designs/yellow.php" alt="Yellow">Yellow</a>
+<br>
 <a href="https://myprotectedserver.com/pre-release/designs/green.php" alt="Green">Green</a>
+<br>
 <a href="https://myprotectedserver.com/pre-release/" alt="Blue">Blue</a>
+<br>
 <a href="https://myprotectedserver.com/pre-release/designs/pink.php" alt="Pink">Pink</a>
+<br>
 <a href="https://myprotectedserver.com/pre-release/designs/purple.php" alt="Purple">Purple</a>
 
 License
