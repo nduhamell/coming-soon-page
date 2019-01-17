@@ -1,6 +1,6 @@
 Clean Coming Soon Page
 ====================================
-A clean coming soon page built with PHP, HTML, and MySQL. Offered in different designs and fully built. Allows you to collect email addresses and store them in a MySQL databse.
+A clean coming soon page built with PHP, HTML, and MySQL. Offered in different designs and fully built. Allows you to collect email addresses and store them in a MySQL databse. If you would like to support future projects go to: https://github.nated.xyz/donate
 
 Install
 ========
@@ -21,19 +21,19 @@ Features
 Preview
 ========
 
-<a href="https://myprotectedserver.com/pre-release/designs/red.php" alt="Red">Red</a>
+<a href="https://github.nated.xyz/demo/coming-soon-page/designs/red.php" alt="Red">Red</a>
 <br>
-<a href="https://myprotectedserver.com/pre-release/designs/orange.php" alt="Orange">Orange</a>
+<a href="https://github.nated.xyz/demo/coming-soon-page/designs/orange.php" alt="Orange">Orange</a>
 <br>
-<a href="https://myprotectedserver.com/pre-release/designs/yellow.php" alt="Yellow">Yellow</a>
+<a href="https://github.nated.xyz/demo/coming-soon-page/designs/yellow.php" alt="Yellow">Yellow</a>
 <br>
-<a href="https://myprotectedserver.com/pre-release/designs/green.php" alt="Green">Green</a>
+<a href="https://github.nated.xyz/demo/coming-soon-page/designs/green.php" alt="Green">Green</a>
 <br>
-<a href="https://myprotectedserver.com/pre-release/" alt="Blue">Blue</a>
+<a href="https://github.nated.xyz/demo/coming-soon-page/" alt="Blue">Blue (Default)</a>
 <br>
-<a href="https://myprotectedserver.com/pre-release/designs/pink.php" alt="Pink">Pink</a>
+<a href="https://github.nated.xyz/demo/coming-soon-page/designs/pink.php" alt="Pink">Pink</a>
 <br>
-<a href="https://myprotectedserver.com/pre-release/designs/purple.php" alt="Purple">Purple</a>
+<a href="https://github.nated.xyz/demo/coming-soon-page/designs/purple.php" alt="Purple">Purple</a>
 
 License
 ==========
