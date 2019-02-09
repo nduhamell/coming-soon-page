@@ -12,6 +12,12 @@ Install
 5) You are welcome to delete the designs folder at this point (including the db.php file)
 however DO NOT delete the db.php file in the home directory. 
 
+
+Install Images
+===============
+Visual Representation of Steps Above
+<a href="https://i.imgur.com/d6Nflok.png" target="_blank"><img style="padding-left:5%;" src="https://i.imgur.com/d6Nflok.png" alt="Coming Soon Page Install Instructions" width="100%"></img></a>
+
 Features
 ===============
 - Fully Built
