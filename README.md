@@ -1,6 +1,10 @@
 Clean Coming Soon Page
 ====================================
-A clean coming soon page built with PHP, HTML, and MySQL. Offered in different designs and fully built. Allows you to collect email addresses and store them in a MySQL databse. If you would like to support future projects go to: https://github.nated.xyz/donate
+A clean coming soon page built with PHP, HTML, and MySQL. Offered in different designs and fully built. Allows you to collect email addresses and store them in a MySQL databse. 
+
+Documentation
+==============
+https://nateduhamell.com/github-project-coming-soon-page/
 
 Install
 ========
