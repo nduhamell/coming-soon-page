@@ -31,19 +31,19 @@ Features
 Preview
 ========
 
-<a href="https://github.nated.xyz/demo/coming-soon-page/designs/red.php" alt="Red">Red</a>
+<a href="https://files.nateduhamell.com/test/coming-soon-page-master/designs/red.php" alt="Red">Red</a>
 <br>
-<a href="https://github.nated.xyz/demo/coming-soon-page/designs/orange.php" alt="Orange">Orange</a>
+<a href="https://files.nateduhamell.com/test/coming-soon-page-master/designs/orange.php" alt="Orange">Orange</a>
 <br>
-<a href="https://github.nated.xyz/demo/coming-soon-page/designs/yellow.php" alt="Yellow">Yellow</a>
+<a href="https://files.nateduhamell.com/test/coming-soon-page-master/designs/yellow.php" alt="Yellow">Yellow</a>
 <br>
-<a href="https://github.nated.xyz/demo/coming-soon-page/designs/green.php" alt="Green">Green</a>
+<a href="https://files.nateduhamell.com/test/coming-soon-page-master/designs/green.php" alt="Green">Green</a>
 <br>
-<a href="https://github.nated.xyz/demo/coming-soon-page/" alt="Blue">Blue (Default)</a>
+<a href="https://files.nateduhamell.com/test/coming-soon-page-master" alt="Blue">Blue (Default)</a>
 <br>
-<a href="https://github.nated.xyz/demo/coming-soon-page/designs/pink.php" alt="Pink">Pink</a>
+<a href="https://files.nateduhamell.com/test/coming-soon-page-master/designs/pink.php" alt="Pink">Pink</a>
 <br>
-<a href="https://github.nated.xyz/demo/coming-soon-page/designs/purple.php" alt="Purple">Purple</a>
+<a href="https://files.nateduhamell.com/test/coming-soon-page-master/designs/purple.php" alt="Purple">Purple</a>
 
 License
 ==========
